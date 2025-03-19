@@ -1,0 +1,15 @@
+[package]
+name = "Food"
+version = "1.0.0"
+authors = []
+
+[addresses]
+ MyModule = "0x64a4b00ead7054c7a706315623090f8d996b09c389a25681811c37d45b2c76ec"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
