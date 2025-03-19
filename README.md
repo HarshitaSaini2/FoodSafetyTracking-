@@ -30,7 +30,8 @@ Future enhancements for the Food Safety Tracking project include:
 - **Decentralized Blockchain Data**: Data about the food products is stored on the blockchain, ensuring that the information is immutable and tamper-proof.
 - **Consumer Accessibility**: Consumers can easily access detailed information about food items using a decentralized application (DApp) or directly from the contract interface.
 
+## Contract Address "0xe83a848ef480a08bd9367efe870903643f5176b70aaa156aa22b174cd759a8ad"
 
-
+![image](https://github.com/user-attachments/assets/ed5b0afa-fb93-4653-8a91-9a32b0fc2e3b)
 
 
